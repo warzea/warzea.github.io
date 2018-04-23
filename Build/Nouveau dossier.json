@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Portfolio",
+"dataUrl": "Nouveau dossier.data.unityweb",
+"asmCodeUrl": "Nouveau dossier.asm.code.unityweb",
+"asmMemoryUrl": "Nouveau dossier.asm.memory.unityweb",
+"asmFrameworkUrl": "Nouveau dossier.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
